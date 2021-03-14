@@ -1,5 +1,5 @@
 function electrons_around_the_cores( dices ){
-  // only tricky part of this problem is the rules. 
+ 
   // The rule of the game is: for each 3 you get 2 
   // points, for each 5 you get 4 points.
   var count=0;
